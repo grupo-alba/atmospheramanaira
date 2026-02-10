@@ -1,0 +1,947 @@
+[
+  {
+    "UNIDADE": "FLAT 201",
+    "TIPOLOGIA": "RESIDENCIAL",
+    "DETALHES": "02 SUÍTES",
+    "POSIÇÃO ": "NORTE",
+    "VAGA DE GARAGEM": "PRIVATIVA"
+  },
+  {
+    "UNIDADE": "FLAT 202",
+    "TIPOLOGIA": "RESIDENCIAL",
+    "DETALHES": "02 SUÍTES",
+    "POSIÇÃO ": "NORTE",
+    "VAGA DE GARAGEM": "PRIVATIVA"
+  },
+  {
+    "UNIDADE": "FLAT 203",
+    "TIPOLOGIA": "RESIDENCIAL",
+    "DETALHES": "02 SUÍTES",
+    "POSIÇÃO ": "NORTE",
+    "VAGA DE GARAGEM": "PRIVATIVA"
+  },
+  {
+    "UNIDADE": "FLAT 204",
+    "TIPOLOGIA": "RESIDENCIAL",
+    "DETALHES": "02 SUÍTES",
+    "POSIÇÃO ": "LESTE NASCENTE NORTE",
+    "VAGA DE GARAGEM": "PRIVATIVA"
+  },
+  {
+    "UNIDADE": "FLAT 205",
+    "TIPOLOGIA": "RESIDENCIAL",
+    "DETALHES": "02 SUÍTES",
+    "POSIÇÃO ": "NASCENTE",
+    "VAGA DE GARAGEM": "PRIVATIVA"
+  },
+  {
+    "UNIDADE": "FLAT 206",
+    "TIPOLOGIA": "RESIDENCIAL",
+    "DETALHES": "02 SUÍTES",
+    "POSIÇÃO ": "NASCENTE",
+    "VAGA DE GARAGEM": "PRIVATIVA"
+  },
+  {
+    "UNIDADE": "FLAT 207",
+    "TIPOLOGIA": "RESIDENCIAL",
+    "DETALHES": "02 SUÍTES",
+    "POSIÇÃO ": "NASCENTE",
+    "VAGA DE GARAGEM": "PRIVATIVA"
+  },
+  {
+    "UNIDADE": "FLAT 208",
+    "TIPOLOGIA": "RESIDENCIAL",
+    "DETALHES": "01 QUARTO",
+    "POSIÇÃO ": "NASCENTE",
+    "VAGA DE GARAGEM": "ROTATIVA"
+  },
+  {
+    "UNIDADE": "FLAT 209",
+    "TIPOLOGIA": "RESIDENCIAL",
+    "DETALHES": "02 SUÍTES",
+    "POSIÇÃO ": "NASCENTE SUL",
+    "VAGA DE GARAGEM": "PRIVATIVA"
+  },
+  {
+    "UNIDADE": "FLAT 210",
+    "TIPOLOGIA": "RESIDENCIAL",
+    "DETALHES": "02 SUÍTES",
+    "POSIÇÃO ": "SUL",
+    "VAGA DE GARAGEM": "PRIVATIVA"
+  },
+  {
+    "UNIDADE": "FLAT 211",
+    "TIPOLOGIA": "RESIDENCIAL",
+    "DETALHES": "02 SUÍTES",
+    "POSIÇÃO ": "SUL",
+    "VAGA DE GARAGEM": "PRIVATIVA"
+  },
+  {
+    "UNIDADE": "FLAT 212",
+    "TIPOLOGIA": "RESIDENCIAL",
+    "DETALHES": "02 SUÍTES",
+    "POSIÇÃO ": "SUL",
+    "VAGA DE GARAGEM": "PRIVATIVA"
+  },
+  {
+    "UNIDADE": "FLAT 301",
+    "TIPOLOGIA": "RESIDENCIAL",
+    "DETALHES": "02 SUÍTES",
+    "POSIÇÃO ": "NORTE",
+    "VAGA DE GARAGEM": "ROTATIVA"
+  },
+  {
+    "UNIDADE": "FLAT 302",
+    "TIPOLOGIA": "RESIDENCIAL",
+    "DETALHES": "02 SUÍTES",
+    "POSIÇÃO ": "NORTE",
+    "VAGA DE GARAGEM": "ROTATIVA"
+  },
+  {
+    "UNIDADE": "FLAT 303",
+    "TIPOLOGIA": "RESIDENCIAL",
+    "DETALHES": "02 SUÍTES",
+    "POSIÇÃO ": "NORTE",
+    "VAGA DE GARAGEM": "ROTATIVA"
+  },
+  {
+    "UNIDADE": "FLAT 304",
+    "TIPOLOGIA": "RESIDENCIAL",
+    "DETALHES": "02 SUÍTES",
+    "POSIÇÃO ": "LESTE NASCENTE NORTE",
+    "VAGA DE GARAGEM": "ROTATIVA"
+  },
+  {
+    "UNIDADE": "FLAT 305",
+    "TIPOLOGIA": "RESIDENCIAL",
+    "DETALHES": "02 SUÍTES",
+    "POSIÇÃO ": "LESTE NASCENTE",
+    "VAGA DE GARAGEM": "ROTATIVA"
+  },
+  {
+    "UNIDADE": "FLAT 306",
+    "TIPOLOGIA": "RESIDENCIAL",
+    "DETALHES": "02 SUÍTES",
+    "POSIÇÃO ": "LESTE NASCENTE",
+    "VAGA DE GARAGEM": "ROTATIVA"
+  },
+  {
+    "UNIDADE": "FLAT 307",
+    "TIPOLOGIA": "RESIDENCIAL",
+    "DETALHES": "02 SUÍTES",
+    "POSIÇÃO ": "LESTE NASCENTE",
+    "VAGA DE GARAGEM": "ROTATIVA"
+  },
+  {
+    "UNIDADE": "FLAT 308",
+    "TIPOLOGIA": "RESIDENCIAL",
+    "DETALHES": "02 SUÍTES",
+    "POSIÇÃO ": "LESTE NASCENTE",
+    "VAGA DE GARAGEM": "ROTATIVA"
+  },
+  {
+    "UNIDADE": "FLAT 309",
+    "TIPOLOGIA": "RESIDENCIAL",
+    "DETALHES": "01 QUARTO",
+    "POSIÇÃO ": "LESTE NASCENTE SUL",
+    "VAGA DE GARAGEM": "ROTATIVA"
+  },
+  {
+    "UNIDADE": "FLAT 310",
+    "TIPOLOGIA": "RESIDENCIAL",
+    "DETALHES": "02 SUÍTES",
+    "POSIÇÃO ": "SUL",
+    "VAGA DE GARAGEM": "ROTATIVA"
+  },
+  {
+    "UNIDADE": "FLAT 311",
+    "TIPOLOGIA": "RESIDENCIAL",
+    "DETALHES": "02 SUÍTES",
+    "POSIÇÃO ": "SUL",
+    "VAGA DE GARAGEM": "ROTATIVA"
+  },
+  {
+    "UNIDADE": "FLAT 312",
+    "TIPOLOGIA": "RESIDENCIAL",
+    "DETALHES": "02 SUÍTES",
+    "POSIÇÃO ": "SUL",
+    "VAGA DE GARAGEM": "ROTATIVA"
+  },
+  {
+    "UNIDADE": "FLAT 313",
+    "TIPOLOGIA": "RESIDENCIAL",
+    "DETALHES": "02 SUÍTES",
+    "POSIÇÃO ": "OESTE",
+    "VAGA DE GARAGEM": "ROTATIVA"
+  },
+  {
+    "UNIDADE": "FLAT 314",
+    "TIPOLOGIA": "RESIDENCIAL",
+    "DETALHES": "02 SUÍTES",
+    "POSIÇÃO ": "OESTE",
+    "VAGA DE GARAGEM": "ROTATIVA"
+  },
+  {
+    "UNIDADE": "FLAT 315",
+    "TIPOLOGIA": "RESIDENCIAL",
+    "DETALHES": "02 SUÍTES",
+    "POSIÇÃO ": "OESTE",
+    "VAGA DE GARAGEM": "ROTATIVA"
+  },
+  {
+    "UNIDADE": "FLAT 401",
+    "TIPOLOGIA": "RESIDENCIAL",
+    "DETALHES": "02 SUÍTES",
+    "POSIÇÃO ": "NORTE",
+    "VAGA DE GARAGEM": "PRIVATIVA"
+  },
+  {
+    "UNIDADE": "FLAT 402",
+    "TIPOLOGIA": "RESIDENCIAL",
+    "DETALHES": "02 SUÍTES",
+    "POSIÇÃO ": "NORTE",
+    "VAGA DE GARAGEM": "PRIVATIVA"
+  },
+  {
+    "UNIDADE": "FLAT 403",
+    "TIPOLOGIA": "RESIDENCIAL",
+    "DETALHES": "02 SUÍTES",
+    "POSIÇÃO ": "NORTE",
+    "VAGA DE GARAGEM": "PRIVATIVA"
+  },
+  {
+    "UNIDADE": "FLAT 404",
+    "TIPOLOGIA": "RESIDENCIAL",
+    "DETALHES": "02 SUÍTES",
+    "POSIÇÃO ": "LESTE NASCENTE NORTE",
+    "VAGA DE GARAGEM": "PRIVATIVA"
+  },
+  {
+    "UNIDADE": "FLAT 405",
+    "TIPOLOGIA": "RESIDENCIAL",
+    "DETALHES": "02 SUÍTES",
+    "POSIÇÃO ": "LESTE NASCENTE",
+    "VAGA DE GARAGEM": "PRIVATIVA"
+  },
+  {
+    "UNIDADE": "FLAT 406",
+    "TIPOLOGIA": "RESIDENCIAL",
+    "DETALHES": "01 QUARTO",
+    "POSIÇÃO ": "LESTE NASCENTE",
+    "VAGA DE GARAGEM": "PRIVATIVA"
+  },
+  {
+    "UNIDADE": "FLAT 407",
+    "TIPOLOGIA": "RESIDENCIAL",
+    "DETALHES": "02 SUÍTES",
+    "POSIÇÃO ": "LESTE NASCENTE",
+    "VAGA DE GARAGEM": "PRIVATIVA"
+  },
+  {
+    "UNIDADE": "FLAT 408",
+    "TIPOLOGIA": "RESIDENCIAL",
+    "DETALHES": "02 SUÍTES",
+    "POSIÇÃO ": "LESTE NASCENTE",
+    "VAGA DE GARAGEM": "PRIVATIVA"
+  },
+  {
+    "UNIDADE": "FLAT 409",
+    "TIPOLOGIA": "RESIDENCIAL",
+    "DETALHES": "02 SUÍTES",
+    "POSIÇÃO ": "LESTE NASCENTE SUL",
+    "VAGA DE GARAGEM": "PRIVATIVA"
+  },
+  {
+    "UNIDADE": "FLAT 410",
+    "TIPOLOGIA": "RESIDENCIAL",
+    "DETALHES": "02 SUÍTES",
+    "POSIÇÃO ": "SUL",
+    "VAGA DE GARAGEM": "PRIVATIVA"
+  },
+  {
+    "UNIDADE": "FLAT 411",
+    "TIPOLOGIA": "RESIDENCIAL",
+    "DETALHES": "02 SUÍTES",
+    "POSIÇÃO ": "SUL",
+    "VAGA DE GARAGEM": "PRIVATIVA"
+  },
+  {
+    "UNIDADE": "FLAT 412",
+    "TIPOLOGIA": "RESIDENCIAL",
+    "DETALHES": "02 SUÍTES",
+    "POSIÇÃO ": "SUL",
+    "VAGA DE GARAGEM": "PRIVATIVA"
+  },
+  {
+    "UNIDADE": "FLAT 413",
+    "TIPOLOGIA": "RESIDENCIAL",
+    "DETALHES": "02 SUÍTES",
+    "POSIÇÃO ": "OESTE",
+    "VAGA DE GARAGEM": "PRIVATIVA"
+  },
+  {
+    "UNIDADE": "FLAT 414",
+    "TIPOLOGIA": "RESIDENCIAL",
+    "DETALHES": "02 SUÍTES",
+    "POSIÇÃO ": "OESTE",
+    "VAGA DE GARAGEM": "PRIVATIVA"
+  },
+  {
+    "UNIDADE": "FLAT 415",
+    "TIPOLOGIA": "RESIDENCIAL",
+    "DETALHES": "02 SUÍTES",
+    "POSIÇÃO ": "OESTE",
+    "VAGA DE GARAGEM": "PRIVATIVA"
+  },
+  {
+    "UNIDADE": "FLAT 501",
+    "TIPOLOGIA": "RESIDENCIAL",
+    "DETALHES": "02 SUÍTES",
+    "POSIÇÃO ": "NORTE",
+    "VAGA DE GARAGEM": "ROTATIVA"
+  },
+  {
+    "UNIDADE": "FLAT 502",
+    "TIPOLOGIA": "RESIDENCIAL",
+    "DETALHES": "02 SUÍTES",
+    "POSIÇÃO ": "NORTE",
+    "VAGA DE GARAGEM": "ROTATIVA"
+  },
+  {
+    "UNIDADE": "FLAT 503",
+    "TIPOLOGIA": "RESIDENCIAL",
+    "DETALHES": "01 QUARTO",
+    "POSIÇÃO ": "NORTE",
+    "VAGA DE GARAGEM": "ROTATIVA"
+  },
+  {
+    "UNIDADE": "FLAT 504",
+    "TIPOLOGIA": "RESIDENCIAL",
+    "DETALHES": "02 SUÍTES",
+    "POSIÇÃO ": "LESTE NASCENTE NORTE",
+    "VAGA DE GARAGEM": "ROTATIVA"
+  },
+  {
+    "UNIDADE": "FLAT 505",
+    "TIPOLOGIA": "RESIDENCIAL",
+    "DETALHES": "02 SUÍTES",
+    "POSIÇÃO ": "LESTE NASCENTE",
+    "VAGA DE GARAGEM": "ROTATIVA"
+  },
+  {
+    "UNIDADE": "FLAT 506",
+    "TIPOLOGIA": "RESIDENCIAL",
+    "DETALHES": "02 SUÍTES",
+    "POSIÇÃO ": "LESTE NASCENTE",
+    "VAGA DE GARAGEM": "ROTATIVA"
+  },
+  {
+    "UNIDADE": "FLAT 507",
+    "TIPOLOGIA": "RESIDENCIAL",
+    "DETALHES": "02 SUÍTES",
+    "POSIÇÃO ": "LESTE NASCENTE",
+    "VAGA DE GARAGEM": "ROTATIVA"
+  },
+  {
+    "UNIDADE": "FLAT 508",
+    "TIPOLOGIA": "RESIDENCIAL",
+    "DETALHES": "02 SUÍTES",
+    "POSIÇÃO ": "LESTE NASCENTE",
+    "VAGA DE GARAGEM": "ROTATIVA"
+  },
+  {
+    "UNIDADE": "FLAT 509",
+    "TIPOLOGIA": "RESIDENCIAL",
+    "DETALHES": "02 SUÍTES",
+    "POSIÇÃO ": "LESTE NASCENTE SUL",
+    "VAGA DE GARAGEM": "ROTATIVA"
+  },
+  {
+    "UNIDADE": "FLAT 510",
+    "TIPOLOGIA": "RESIDENCIAL",
+    "DETALHES": "02 SUÍTES",
+    "POSIÇÃO ": "SUL",
+    "VAGA DE GARAGEM": "ROTATIVA"
+  },
+  {
+    "UNIDADE": "FLAT 511",
+    "TIPOLOGIA": "RESIDENCIAL",
+    "DETALHES": "02 SUÍTES",
+    "POSIÇÃO ": "SUL",
+    "VAGA DE GARAGEM": "ROTATIVA"
+  },
+  {
+    "UNIDADE": "FLAT 512",
+    "TIPOLOGIA": "RESIDENCIAL",
+    "DETALHES": "02 SUÍTES",
+    "POSIÇÃO ": "SUL",
+    "VAGA DE GARAGEM": "ROTATIVA"
+  },
+  {
+    "UNIDADE": "FLAT 513",
+    "TIPOLOGIA": "RESIDENCIAL",
+    "DETALHES": "02 SUÍTES",
+    "POSIÇÃO ": "OESTE",
+    "VAGA DE GARAGEM": "ROTATIVA"
+  },
+  {
+    "UNIDADE": "FLAT 514",
+    "TIPOLOGIA": "RESIDENCIAL",
+    "DETALHES": "02 SUÍTES",
+    "POSIÇÃO ": "OESTE",
+    "VAGA DE GARAGEM": "ROTATIVA"
+  },
+  {
+    "UNIDADE": "FLAT 515",
+    "TIPOLOGIA": "RESIDENCIAL",
+    "DETALHES": "01 QUARTO",
+    "POSIÇÃO ": "OESTE",
+    "VAGA DE GARAGEM": "ROTATIVA"
+  },
+  {
+    "UNIDADE": "FLAT 601",
+    "TIPOLOGIA": "RESIDENCIAL",
+    "DETALHES": "02 SUÍTES",
+    "POSIÇÃO ": "NORTE",
+    "VAGA DE GARAGEM": "PRIVATIVA"
+  },
+  {
+    "UNIDADE": "FLAT 602",
+    "TIPOLOGIA": "RESIDENCIAL",
+    "DETALHES": "02 SUÍTES",
+    "POSIÇÃO ": "NORTE",
+    "VAGA DE GARAGEM": "PRIVATIVA"
+  },
+  {
+    "UNIDADE": "FLAT 603",
+    "TIPOLOGIA": "RESIDENCIAL",
+    "DETALHES": "02 SUÍTES",
+    "POSIÇÃO ": "NORTE",
+    "VAGA DE GARAGEM": "PRIVATIVA"
+  },
+  {
+    "UNIDADE": "FLAT 604",
+    "TIPOLOGIA": "RESIDENCIAL",
+    "DETALHES": "02 SUÍTES",
+    "POSIÇÃO ": "LESTE NASCENTE NORTE",
+    "VAGA DE GARAGEM": "PRIVATIVA"
+  },
+  {
+    "UNIDADE": "FLAT 605",
+    "TIPOLOGIA": "RESIDENCIAL",
+    "DETALHES": "02 SUÍTES",
+    "POSIÇÃO ": "LESTE NASCENTE",
+    "VAGA DE GARAGEM": "PRIVATIVA"
+  },
+  {
+    "UNIDADE": "FLAT 606",
+    "TIPOLOGIA": "RESIDENCIAL",
+    "DETALHES": "01 QUARTO",
+    "POSIÇÃO ": "LESTE NASCENTE",
+    "VAGA DE GARAGEM": "PRIVATIVA"
+  },
+  {
+    "UNIDADE": "FLAT 607",
+    "TIPOLOGIA": "RESIDENCIAL",
+    "DETALHES": "02 SUÍTES",
+    "POSIÇÃO ": "LESTE NASCENTE",
+    "VAGA DE GARAGEM": "PRIVATIVA"
+  },
+  {
+    "UNIDADE": "FLAT 608",
+    "TIPOLOGIA": "RESIDENCIAL",
+    "DETALHES": "02 SUÍTES",
+    "POSIÇÃO ": "LESTE NASCENTE",
+    "VAGA DE GARAGEM": "PRIVATIVA"
+  },
+  {
+    "UNIDADE": "FLAT 609",
+    "TIPOLOGIA": "RESIDENCIAL",
+    "DETALHES": "02 SUÍTES",
+    "POSIÇÃO ": "LESTE NASCENTE SUL",
+    "VAGA DE GARAGEM": "PRIVATIVA"
+  },
+  {
+    "UNIDADE": "FLAT 610",
+    "TIPOLOGIA": "RESIDENCIAL",
+    "DETALHES": "02 SUÍTES",
+    "POSIÇÃO ": "SUL",
+    "VAGA DE GARAGEM": "PRIVATIVA"
+  },
+  {
+    "UNIDADE": "FLAT 611",
+    "TIPOLOGIA": "RESIDENCIAL",
+    "DETALHES": "02 SUÍTES",
+    "POSIÇÃO ": "SUL",
+    "VAGA DE GARAGEM": "PRIVATIVA"
+  },
+  {
+    "UNIDADE": "FLAT 612",
+    "TIPOLOGIA": "RESIDENCIAL",
+    "DETALHES": "02 SUÍTES",
+    "POSIÇÃO ": "SUL",
+    "VAGA DE GARAGEM": "PRIVATIVA"
+  },
+  {
+    "UNIDADE": "FLAT 613",
+    "TIPOLOGIA": "RESIDENCIAL",
+    "DETALHES": "02 SUÍTES",
+    "POSIÇÃO ": "OESTE",
+    "VAGA DE GARAGEM": "PRIVATIVA"
+  },
+  {
+    "UNIDADE": "FLAT 614",
+    "TIPOLOGIA": "RESIDENCIAL",
+    "DETALHES": "02 SUÍTES",
+    "POSIÇÃO ": "OESTE",
+    "VAGA DE GARAGEM": "PRIVATIVA"
+  },
+  {
+    "UNIDADE": "FLAT 615",
+    "TIPOLOGIA": "RESIDENCIAL",
+    "DETALHES": "02 SUÍTES",
+    "POSIÇÃO ": "OESTE",
+    "VAGA DE GARAGEM": "PRIVATIVA"
+  },
+  {
+    "UNIDADE": "FLAT 701",
+    "TIPOLOGIA": "RESIDENCIAL",
+    "DETALHES": "02 SUÍTES",
+    "POSIÇÃO ": "NORTE",
+    "VAGA DE GARAGEM": "ROTATIVA"
+  },
+  {
+    "UNIDADE": "FLAT 702",
+    "TIPOLOGIA": "RESIDENCIAL",
+    "DETALHES": "02 SUÍTES",
+    "POSIÇÃO ": "NORTE",
+    "VAGA DE GARAGEM": "ROTATIVA"
+  },
+  {
+    "UNIDADE": "FLAT 703",
+    "TIPOLOGIA": "RESIDENCIAL",
+    "DETALHES": "01 QUARTO",
+    "POSIÇÃO ": "NORTE",
+    "VAGA DE GARAGEM": "ROTATIVA"
+  },
+  {
+    "UNIDADE": "FLAT 704",
+    "TIPOLOGIA": "RESIDENCIAL",
+    "DETALHES": "02 SUÍTES",
+    "POSIÇÃO ": "LESTE NASCENTE NORTE",
+    "VAGA DE GARAGEM": "ROTATIVA"
+  },
+  {
+    "UNIDADE": "FLAT 705",
+    "TIPOLOGIA": "RESIDENCIAL",
+    "DETALHES": "02 SUÍTES",
+    "POSIÇÃO ": "LESTE NASCENTE",
+    "VAGA DE GARAGEM": "ROTATIVA"
+  },
+  {
+    "UNIDADE": "FLAT 706",
+    "TIPOLOGIA": "RESIDENCIAL",
+    "DETALHES": "02 SUÍTES",
+    "POSIÇÃO ": "LESTE NASCENTE",
+    "VAGA DE GARAGEM": "ROTATIVA"
+  },
+  {
+    "UNIDADE": "FLAT 707",
+    "TIPOLOGIA": "RESIDENCIAL",
+    "DETALHES": "02 SUÍTES",
+    "POSIÇÃO ": "LESTE NASCENTE",
+    "VAGA DE GARAGEM": "ROTATIVA"
+  },
+  {
+    "UNIDADE": "FLAT 708",
+    "TIPOLOGIA": "RESIDENCIAL",
+    "DETALHES": "02 SUÍTES",
+    "POSIÇÃO ": "LESTE NASCENTE",
+    "VAGA DE GARAGEM": "ROTATIVA"
+  },
+  {
+    "UNIDADE": "FLAT 709",
+    "TIPOLOGIA": "RESIDENCIAL",
+    "DETALHES": "02 SUÍTES",
+    "POSIÇÃO ": "LESTE NASCENTE SUL",
+    "VAGA DE GARAGEM": "ROTATIVA"
+  },
+  {
+    "UNIDADE": "FLAT 710",
+    "TIPOLOGIA": "RESIDENCIAL",
+    "DETALHES": "02 SUÍTES",
+    "POSIÇÃO ": "SUL",
+    "VAGA DE GARAGEM": "ROTATIVA"
+  },
+  {
+    "UNIDADE": "FLAT 711",
+    "TIPOLOGIA": "RESIDENCIAL",
+    "DETALHES": "02 SUÍTES",
+    "POSIÇÃO ": "SUL",
+    "VAGA DE GARAGEM": "ROTATIVA"
+  },
+  {
+    "UNIDADE": "FLAT 712",
+    "TIPOLOGIA": "RESIDENCIAL",
+    "DETALHES": "02 SUÍTES",
+    "POSIÇÃO ": "SUL",
+    "VAGA DE GARAGEM": "ROTATIVA"
+  },
+  {
+    "UNIDADE": "FLAT 713",
+    "TIPOLOGIA": "RESIDENCIAL",
+    "DETALHES": "02 SUÍTES",
+    "POSIÇÃO ": "OESTE",
+    "VAGA DE GARAGEM": "ROTATIVA"
+  },
+  {
+    "UNIDADE": "FLAT 714",
+    "TIPOLOGIA": "RESIDENCIAL",
+    "DETALHES": "02 SUÍTES",
+    "POSIÇÃO ": "OESTE",
+    "VAGA DE GARAGEM": "ROTATIVA"
+  },
+  {
+    "UNIDADE": "FLAT 715",
+    "TIPOLOGIA": "RESIDENCIAL",
+    "DETALHES": "01 QUARTO",
+    "POSIÇÃO ": "OESTE",
+    "VAGA DE GARAGEM": "ROTATIVA"
+  },
+  {
+    "UNIDADE": "FLAT 801",
+    "TIPOLOGIA": "RESIDENCIAL",
+    "DETALHES": "02 SUÍTES",
+    "POSIÇÃO ": "NORTE",
+    "VAGA DE GARAGEM": "PRIVATIVA"
+  },
+  {
+    "UNIDADE": "FLAT 802",
+    "TIPOLOGIA": "RESIDENCIAL",
+    "DETALHES": "02 SUÍTES",
+    "POSIÇÃO ": "NORTE",
+    "VAGA DE GARAGEM": "PRIVATIVA"
+  },
+  {
+    "UNIDADE": "FLAT 803",
+    "TIPOLOGIA": "RESIDENCIAL",
+    "DETALHES": "02 SUÍTES",
+    "POSIÇÃO ": "NORTE",
+    "VAGA DE GARAGEM": "PRIVATIVA"
+  },
+  {
+    "UNIDADE": "FLAT 804",
+    "TIPOLOGIA": "RESIDENCIAL",
+    "DETALHES": "02 SUÍTES",
+    "POSIÇÃO ": "LESTE NASCENTE NORTE",
+    "VAGA DE GARAGEM": "PRIVATIVA"
+  },
+  {
+    "UNIDADE": "FLAT 805",
+    "TIPOLOGIA": "RESIDENCIAL",
+    "DETALHES": "02 SUÍTES",
+    "POSIÇÃO ": "LESTE NASCENTE",
+    "VAGA DE GARAGEM": "PRIVATIVA"
+  },
+  {
+    "UNIDADE": "FLAT 806",
+    "TIPOLOGIA": "RESIDENCIAL",
+    "DETALHES": "01 QUARTO",
+    "POSIÇÃO ": "LESTE NASCENTE",
+    "VAGA DE GARAGEM": "PRIVATIVA"
+  },
+  {
+    "UNIDADE": "FLAT 807",
+    "TIPOLOGIA": "RESIDENCIAL",
+    "DETALHES": "02 SUÍTES",
+    "POSIÇÃO ": "LESTE NASCENTE",
+    "VAGA DE GARAGEM": "PRIVATIVA"
+  },
+  {
+    "UNIDADE": "FLAT 808",
+    "TIPOLOGIA": "RESIDENCIAL",
+    "DETALHES": "02 SUÍTES",
+    "POSIÇÃO ": "LESTE NASCENTE",
+    "VAGA DE GARAGEM": "PRIVATIVA"
+  },
+  {
+    "UNIDADE": "FLAT 809",
+    "TIPOLOGIA": "RESIDENCIAL",
+    "DETALHES": "02 SUÍTES",
+    "POSIÇÃO ": "LESTE NASCENTE SUL",
+    "VAGA DE GARAGEM": "PRIVATIVA"
+  },
+  {
+    "UNIDADE": "FLAT 810",
+    "TIPOLOGIA": "RESIDENCIAL",
+    "DETALHES": "02 SUÍTES",
+    "POSIÇÃO ": "SUL",
+    "VAGA DE GARAGEM": "PRIVATIVA"
+  },
+  {
+    "UNIDADE": "FLAT 811",
+    "TIPOLOGIA": "RESIDENCIAL",
+    "DETALHES": "02 SUÍTES",
+    "POSIÇÃO ": "SUL",
+    "VAGA DE GARAGEM": "PRIVATIVA"
+  },
+  {
+    "UNIDADE": "FLAT 812",
+    "TIPOLOGIA": "RESIDENCIAL",
+    "DETALHES": "02 SUÍTES",
+    "POSIÇÃO ": "SUL",
+    "VAGA DE GARAGEM": "PRIVATIVA"
+  },
+  {
+    "UNIDADE": "FLAT 813",
+    "TIPOLOGIA": "RESIDENCIAL",
+    "DETALHES": "02 SUÍTES",
+    "POSIÇÃO ": "OESTE",
+    "VAGA DE GARAGEM": "PRIVATIVA"
+  },
+  {
+    "UNIDADE": "FLAT 814",
+    "TIPOLOGIA": "RESIDENCIAL",
+    "DETALHES": "02 SUÍTES",
+    "POSIÇÃO ": "OESTE",
+    "VAGA DE GARAGEM": "PRIVATIVA"
+  },
+  {
+    "UNIDADE": "FLAT 815",
+    "TIPOLOGIA": "RESIDENCIAL",
+    "DETALHES": "02 SUÍTES",
+    "POSIÇÃO ": "OESTE",
+    "VAGA DE GARAGEM": "PRIVATIVA"
+  },
+  {
+    "UNIDADE": "FLAT 901",
+    "TIPOLOGIA": "RESIDENCIAL",
+    "DETALHES": "02 SUÍTES",
+    "POSIÇÃO ": "NORTE",
+    "VAGA DE GARAGEM": "ROTATIVA"
+  },
+  {
+    "UNIDADE": "FLAT 902",
+    "TIPOLOGIA": "RESIDENCIAL",
+    "DETALHES": "02 SUÍTES",
+    "POSIÇÃO ": "NORTE",
+    "VAGA DE GARAGEM": "ROTATIVA"
+  },
+  {
+    "UNIDADE": "FLAT 903",
+    "TIPOLOGIA": "RESIDENCIAL",
+    "DETALHES": "01 QUARTO",
+    "POSIÇÃO ": "NORTE",
+    "VAGA DE GARAGEM": "ROTATIVA"
+  },
+  {
+    "UNIDADE": "FLAT 904",
+    "TIPOLOGIA": "RESIDENCIAL",
+    "DETALHES": "02 SUÍTES",
+    "POSIÇÃO ": "LESTE NASCENTE NORTE",
+    "VAGA DE GARAGEM": "ROTATIVA"
+  },
+  {
+    "UNIDADE": "FLAT 905",
+    "TIPOLOGIA": "RESIDENCIAL",
+    "DETALHES": "02 SUÍTES",
+    "POSIÇÃO ": "LESTE NASCENTE",
+    "VAGA DE GARAGEM": "ROTATIVA"
+  },
+  {
+    "UNIDADE": "FLAT 906",
+    "TIPOLOGIA": "RESIDENCIAL",
+    "DETALHES": "02 SUÍTES",
+    "POSIÇÃO ": "LESTE NASCENTE",
+    "VAGA DE GARAGEM": "ROTATIVA"
+  },
+  {
+    "UNIDADE": "FLAT 907",
+    "TIPOLOGIA": "RESIDENCIAL",
+    "DETALHES": "02 SUÍTES",
+    "POSIÇÃO ": "LESTE NASCENTE",
+    "VAGA DE GARAGEM": "ROTATIVA"
+  },
+  {
+    "UNIDADE": "FLAT 908",
+    "TIPOLOGIA": "RESIDENCIAL",
+    "DETALHES": "02 SUÍTES",
+    "POSIÇÃO ": "LESTE NASCENTE",
+    "VAGA DE GARAGEM": "ROTATIVA"
+  },
+  {
+    "UNIDADE": "FLAT 909",
+    "TIPOLOGIA": "RESIDENCIAL",
+    "DETALHES": "02 SUÍTES",
+    "POSIÇÃO ": "LESTE NASCENTE SUL",
+    "VAGA DE GARAGEM": "ROTATIVA"
+  },
+  {
+    "UNIDADE": "FLAT 910",
+    "TIPOLOGIA": "RESIDENCIAL",
+    "DETALHES": "02 SUÍTES",
+    "POSIÇÃO ": "SUL",
+    "VAGA DE GARAGEM": "ROTATIVA"
+  },
+  {
+    "UNIDADE": "FLAT 911",
+    "TIPOLOGIA": "RESIDENCIAL",
+    "DETALHES": "02 SUÍTES",
+    "POSIÇÃO ": "SUL",
+    "VAGA DE GARAGEM": "ROTATIVA"
+  },
+  {
+    "UNIDADE": "FLAT 912",
+    "TIPOLOGIA": "RESIDENCIAL",
+    "DETALHES": "02 SUÍTES",
+    "POSIÇÃO ": "SUL",
+    "VAGA DE GARAGEM": "ROTATIVA"
+  },
+  {
+    "UNIDADE": "FLAT 913",
+    "TIPOLOGIA": "RESIDENCIAL",
+    "DETALHES": "02 SUÍTES",
+    "POSIÇÃO ": "OESTE",
+    "VAGA DE GARAGEM": "ROTATIVA"
+  },
+  {
+    "UNIDADE": "FLAT 914",
+    "TIPOLOGIA": "RESIDENCIAL",
+    "DETALHES": "02 SUÍTES",
+    "POSIÇÃO ": "OESTE",
+    "VAGA DE GARAGEM": "ROTATIVA"
+  },
+  {
+    "UNIDADE": "FLAT 915",
+    "TIPOLOGIA": "RESIDENCIAL",
+    "DETALHES": "01 QUARTO",
+    "POSIÇÃO ": "OESTE",
+    "VAGA DE GARAGEM": "ROTATIVA"
+  },
+  {
+    "UNIDADE": "SALA 01",
+    "TIPOLOGIA": "COMERCIAL",
+    "DETALHES": "1",
+    "POSIÇÃO ": "EXTERNA",
+    "VAGA DE GARAGEM": "ROTATIVA"
+  },
+  {
+    "UNIDADE": "SALA 02",
+    "TIPOLOGIA": "COMERCIAL",
+    "DETALHES": "1",
+    "POSIÇÃO ": "EXTERNA",
+    "VAGA DE GARAGEM": "ROTATIVA"
+  },
+  {
+    "UNIDADE": "SALA 03",
+    "TIPOLOGIA": "COMERCIAL",
+    "DETALHES": "1",
+    "POSIÇÃO ": "EXTERNA",
+    "VAGA DE GARAGEM": "ROTATIVA"
+  },
+  {
+    "UNIDADE": "SALA 04",
+    "TIPOLOGIA": "COMERCIAL",
+    "DETALHES": "1",
+    "POSIÇÃO ": "EXTERNA",
+    "VAGA DE GARAGEM": "ROTATIVA"
+  },
+  {
+    "UNIDADE": "SALA 05",
+    "TIPOLOGIA": "COMERCIAL",
+    "DETALHES": "1",
+    "POSIÇÃO ": "EXTERNA",
+    "VAGA DE GARAGEM": "ROTATIVA"
+  },
+  {
+    "UNIDADE": "SALA 06",
+    "TIPOLOGIA": "COMERCIAL",
+    "DETALHES": "1",
+    "POSIÇÃO ": "INTERNA",
+    "VAGA DE GARAGEM": "ROTATIVA"
+  },
+  {
+    "UNIDADE": "SALA 07",
+    "TIPOLOGIA": "COMERCIAL",
+    "DETALHES": "1",
+    "POSIÇÃO ": "INTERNA",
+    "VAGA DE GARAGEM": "ROTATIVA"
+  },
+  {
+    "UNIDADE": "QUIOSQUE 01",
+    "TIPOLOGIA": "COMERCIAL",
+    "DETALHES": "1",
+    "POSIÇÃO ": "INTERNA",
+    "VAGA DE GARAGEM": "ROTATIVA"
+  },
+  {
+    "UNIDADE": "QUIOSQUE 02",
+    "TIPOLOGIA": "COMERCIAL",
+    "DETALHES": "1",
+    "POSIÇÃO ": "INTERNA EXTERNA",
+    "VAGA DE GARAGEM": "ROTATIVA"
+  },
+  {
+    "UNIDADE": "SALA 08",
+    "TIPOLOGIA": "COMERCIAL",
+    "DETALHES": "1",
+    "POSIÇÃO ": "EXTERNA",
+    "VAGA DE GARAGEM": "ROTATIVA"
+  },
+  {
+    "UNIDADE": "SALA 09",
+    "TIPOLOGIA": "COMERCIAL",
+    "DETALHES": "1",
+    "POSIÇÃO ": "EXTERNA",
+    "VAGA DE GARAGEM": "ROTATIVA"
+  },
+  {
+    "UNIDADE": "SALA 10",
+    "TIPOLOGIA": "COMERCIAL",
+    "DETALHES": "1",
+    "POSIÇÃO ": "EXTERNA",
+    "VAGA DE GARAGEM": "ROTATIVA"
+  },
+  {
+    "UNIDADE": "SALA 11",
+    "TIPOLOGIA": "COMERCIAL",
+    "DETALHES": "1",
+    "POSIÇÃO ": "EXTERNA",
+    "VAGA DE GARAGEM": "ROTATIVA"
+  },
+  {
+    "UNIDADE": "SALA 12",
+    "TIPOLOGIA": "COMERCIAL",
+    "DETALHES": "1",
+    "POSIÇÃO ": "EXTERNA",
+    "VAGA DE GARAGEM": "ROTATIVA"
+  },
+  {
+    "UNIDADE": "SALA 13",
+    "TIPOLOGIA": "COMERCIAL",
+    "DETALHES": "1",
+    "POSIÇÃO ": "EXTERNA",
+    "VAGA DE GARAGEM": "ROTATIVA"
+  },
+  {
+    "UNIDADE": "SALA 14",
+    "TIPOLOGIA": "COMERCIAL",
+    "DETALHES": "1",
+    "POSIÇÃO ": "EXTERNA",
+    "VAGA DE GARAGEM": "ROTATIVA"
+  },
+  {
+    "UNIDADE": "SALA 15",
+    "TIPOLOGIA": "COMERCIAL",
+    "DETALHES": "1",
+    "POSIÇÃO ": "EXTERNA",
+    "VAGA DE GARAGEM": "ROTATIVA"
+  },
+  {
+    "UNIDADE": "SALA 16",
+    "TIPOLOGIA": "COMERCIAL",
+    "DETALHES": "1",
+    "POSIÇÃO ": "EXTERNA",
+    "VAGA DE GARAGEM": "ROTATIVA"
+  }
+]
